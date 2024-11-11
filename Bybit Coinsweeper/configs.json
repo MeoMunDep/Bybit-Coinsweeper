@@ -1,0 +1,7 @@
+{
+  "limit": 100,
+  "countdown": 3000,
+  "country_time": "en-US",
+  "howManyGames": 1000,
+  "winRate": 1
+}
