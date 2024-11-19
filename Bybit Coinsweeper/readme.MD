@@ -32,6 +32,8 @@ To get started with the bot, follow these steps:
 
 ```json
 {
+  "isSkipInvalidProxy": false,
+  "delayEachAccount": [5, 8]
   "winRate": 1, //adjust the win rate for the minesweeper game
   "howManyGames": 1000,
   "limit": 5, //number of accounts run in a row
