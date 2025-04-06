@@ -56,14 +56,19 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 }
 
 ```
-
-### 2. `tokens.txt` 🗂️ - [Get it from here](https://t.me/KeoAirDropFreeNee/1684)
-
+### 2. `datas.txt` 🗂️ - [Get it from here](https://t.me/KeoAirDropFreeNee/1586)
 
 ```txt
 ey...
 ey...
 ey...
+```
+
+### 2.1 `tokens.txt` 🗂️ - Do not touch this file
+
+```json
+{
+}
 ```
 
 ### 3. `bybit_ids.txt` 💼 - Fill your bybit_ids if you have or want to
