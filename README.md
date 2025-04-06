@@ -64,13 +64,6 @@ ey...
 ey...
 ```
 
-### 2.1 `tokens.txt` 🗂️ - Do not touch this file
-
-```json
-{
-}
-```
-
 ### 3. `bybit_ids.txt` 💼 - Fill your bybit_ids if you have or want to
 
 ```txt - wallet address
